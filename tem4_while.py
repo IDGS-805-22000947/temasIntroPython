@@ -1,5 +1,5 @@
 
-
+'''
 x=0
 
 While x<=10
@@ -9,7 +9,7 @@ While x<=10
  
 while True: 
 
-
+'''
 
 
 
