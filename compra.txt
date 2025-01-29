@@ -1,0 +1,49 @@
+-------- Nueva Compra --------
+Nombre persona: Pepe
+Numero de boletos: 2
+Numero de personas: 5
+Tarjeta CINECO: Si
+Costo total: $21.60
+
+-------- Nueva Compra --------
+Nombre persona: Pedro
+Numero de boletos: 5
+Numero de personas: 1
+Tarjeta CINECO: No
+Costo total: $54.00
+
+-------- Nueva Compra --------
+Nombre persona: Pepe
+Numero de boletos: 20
+Numero de personas: 3
+Tarjeta CINECO: Si
+Costo total: $183.60
+
+-------- Nueva Compra --------
+Nombre persona: Pepe
+Numero de boletos: 13
+Numero de personas: 2
+Tarjeta CINECO: No
+Costo total: $132.60
+
+-------- Nueva Compra --------
+Nombre persona: Jose
+Numero de boletos: 1
+Numero de personas: 1
+Tarjeta CINECO: No
+Costo total: $12.00
+
+-------- Nueva Compra --------
+Nombre persona: Pedro
+Numero de boletos: 7
+Numero de personas: 1
+Tarjeta CINECO: Si
+Costo total: $64.26
+
+-------- Nueva Compra --------
+Nombre persona: Pedro
+Numero de boletos: 20
+Numero de personas: 6
+Tarjeta CINECO: No
+Costo total: $204.00
+
